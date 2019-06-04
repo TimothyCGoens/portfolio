@@ -99,7 +99,7 @@ fieldset {
 }
 
 .section-title {
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -721,6 +721,9 @@ ul.about-service li {
     padding-top: 120px;
     padding-bottom: 90px;
 }
+.project-title {
+    margin: 0px;
+}
 
 
 .project-item {
@@ -908,6 +911,7 @@ ul.about-service li {
 .contact-area {
     background: #f9f9f9;
 }
+
 
 
 .form-control {
